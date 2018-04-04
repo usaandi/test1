@@ -1,0 +1,4 @@
+test1:
+  image: node:9
+  script:
+    - node -c test.js
