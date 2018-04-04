@@ -1,2 +1,2 @@
-console.log("Test");
+console.log("Testqwe");
 //test... xD
